@@ -30,7 +30,4 @@ If the string cannot be perfectly segmented into known words, or if it contains 
 
 **Important:** The input must be in **ALL CAPS**.
 
-### ✅ Successful Case
-Input:
-```text
-THEYAREHAPPY
+
